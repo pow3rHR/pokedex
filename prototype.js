@@ -29,5 +29,4 @@ Estudiante.prototype.despedida = function() {
 }
 
 console.log(personita.despedida());
-console.log(personita.saludar());
 console.log(miEstudiante.despedida());
